@@ -1,3 +1,30 @@
-hello from aws git by rashmi
+commands
 
-second line added
+git version
+   3 git config --global user.name "Rashmi Chandrashekar"
+   4 git config --global user.email "rashmic2349@gmail.com"
+   5 md aws-git
+   6 cd aws-git
+   7 git init
+   8 git status
+   9 git add .
+  10 git status
+  11 git log
+  12 git commit -m "first commit"
+  13 git log
+  14 git status
+  15 git branch -M main
+  16 git remote add origin https://github.com/Rashmi2349/aws-git.git
+  17 git push -u origin main
+  18 git status
+  19 git add .
+  20 git status
+  21 git commit -m "second commit"
+  22 git status
+  23 git log
+  24 git push
+  25 git status
+  26 git add .
+  27 git commit -m "two files added"
+  28 git status
+  29 git push
